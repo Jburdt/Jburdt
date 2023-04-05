@@ -1,5 +1,6 @@
 ### About Me: 
 <hr/>
+* I'm Josh Burd from Michigan and I do software development !
 
 * 🔨  I build Apps using React and Rails!
 
@@ -10,3 +11,5 @@
 * 💻  I am Currently learning more about Ruby on rails.
 
 * 💬  Ask me about career transition, bootcamps & Pharmaceuticals.
+### 💻 Tech Stack:
+*Rails *Ruby *JavaScript *SQL *Postgres *HTML *CSS 
