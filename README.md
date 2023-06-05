@@ -12,4 +12,4 @@
 
 * 💬  Ask me about career transition, bootcamps & Pharmaceuticals.
 ### 💻 Tech Stack:
-<chip>*Rails</chip> *Ruby *JavaScript *SQL *Postgres *HTML *CSS 
+*Rails *Ruby *JavaScript *SQL *Postgres *HTML *CSS 
