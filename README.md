@@ -24,13 +24,3 @@
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
-
-          
-          
-          
-          
-          
-          
-          
-          
-          
